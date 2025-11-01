@@ -1,0 +1,201 @@
+{
+  "checked_at_utc": "2025-11-01T17:53:22.393Z",
+  "results": [
+    {
+      "i": 1,
+      "url": "https://charts.bitbo.io/mayermultiple/",
+      "status": "FAIL",
+      "http": 428,
+      "note": "HTTP 428"
+    },
+    {
+      "i": 2,
+      "url": "https://charts.bitbo.io/cdd/",
+      "status": "FAIL",
+      "http": 428,
+      "note": "HTTP 428"
+    },
+    {
+      "i": 3,
+      "url": "https://charts.bitbo.io/dormant-coins/",
+      "status": "FAIL",
+      "http": 428,
+      "note": "HTTP 428"
+    },
+    {
+      "i": 4,
+      "url": "https://charts.bitbo.io/realized-price/",
+      "status": "FAIL",
+      "http": 428,
+      "note": "HTTP 428"
+    },
+    {
+      "i": 5,
+      "url": "https://charts.bitbo.io/thermocap-multiple/",
+      "status": "FAIL",
+      "http": 428,
+      "note": "HTTP 428"
+    },
+    {
+      "i": 6,
+      "url": "https://www.blockchain.com/pt/explorer/charts/pi-cycle-top-indicator",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Bitcoin Pi Cycle Top Indicator"
+    },
+    {
+      "i": 7,
+      "url": "https://www.blockchain.com/pt/explorer/charts/2y-moving-average",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - 2Y Moving Average Multiplier"
+    },
+    {
+      "i": 8,
+      "url": "https://www.blockchain.com/pt/explorer/charts/200w-moving-avg-heatmap",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - 200 Week Moving Average Heatmap"
+    },
+    {
+      "i": 9,
+      "url": "https://www.blockchain.com/pt/explorer/charts/bitcoin-profitable-days",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Bitcoin Profitable Days"
+    },
+    {
+      "i": 10,
+      "url": "https://www.blockchain.com/pt/explorer/charts/mvrv",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Market Value to Realised Value"
+    },
+    {
+      "i": 11,
+      "url": "https://www.blockchain.com/pt/explorer/charts/nvt",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Network Value to Transactions"
+    },
+    {
+      "i": 12,
+      "url": "https://www.blockchain.com/pt/explorer/charts/nvts",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Network Value to Transactions Signal"
+    },
+    {
+      "i": 13,
+      "url": "https://www.bitcoinmagazinepro.com/charts/puell-multiple/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: The Puell Multiple | BM Pro"
+    },
+    {
+      "i": 14,
+      "url": "https://www.bitcoinmagazinepro.com/charts/mvrv-zscore/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: MVRV Z-Score | BM Pro"
+    },
+    {
+      "i": 15,
+      "url": "https://www.bitcoinmagazinepro.com/charts/reserve-risk/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Reserve Risk | BM Pro"
+    },
+    {
+      "i": 16,
+      "url": "https://www.bitcoinmagazinepro.com/charts/rhodl-ratio/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: RHODL Ratio | BM Pro"
+    },
+    {
+      "i": 17,
+      "url": "https://www.bitcoinmagazinepro.com/charts/bitcoin-investor-tool/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Bitcoin Investor Tool: 2-Year MA Multiplier | BM Pro"
+    },
+    {
+      "i": 18,
+      "url": "https://www.bitcoinmagazinepro.com/charts/hodl-waves/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: HODL Waves | BM Pro"
+    },
+    {
+      "i": 19,
+      "url": "https://www.bitcoinmagazinepro.com/charts/stock-to-flow-model/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Stock-to-Flow Model | BM Pro"
+    },
+    {
+      "i": 20,
+      "url": "https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Bitcoin Rainbow Chart - Blockchaincenter"
+    },
+    {
+      "i": 21,
+      "url": "https://alternative.me/crypto/fear-and-greed-index/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Crypto Fear & Greed Index - Bitcoin Sentiment - Alternative.me"
+    },
+    {
+      "i": 22,
+      "url": "https://www.bitcoinmagazinepro.com/charts/realized-price/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Realized Price | BM Pro"
+    },
+    {
+      "i": 23,
+      "url": "https://www.bitcoinmagazinepro.com/charts/hash-ribbons/",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Hash Ribbons Indicator | BM Pro"
+    },
+    {
+      "i": 24,
+      "url": "https://www.blockchain.com/pt/explorer/charts/output-volume",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Output Value Per Day"
+    },
+    {
+      "i": 25,
+      "url": "https://www.blockchain.com/pt/explorer/charts/difficulty",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Network Difficulty"
+    },
+    {
+      "i": 26,
+      "url": "https://www.blockchain.com/pt/explorer/charts/miners-revenue",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Miners Revenue (USD)"
+    },
+    {
+      "i": 27,
+      "url": "https://www.blockchain.com/pt/explorer/charts/cost-per-transaction",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Cost Per Transaction"
+    },
+    {
+      "i": 28,
+      "url": "https://www.blockchain.com/pt/explorer/charts/n-unique-addresses",
+      "status": "OK",
+      "http": 200,
+      "note": "title: Blockchain.com | Charts - Unique Addresses Used"
+    }
+  ]
+}
