@@ -1,0 +1,15 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/cyclescore.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=300, s-maxage=300"
+        }
+      ]
+    }
+  ]
+}

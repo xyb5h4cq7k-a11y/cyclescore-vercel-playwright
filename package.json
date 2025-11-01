@@ -1,0 +1,15 @@
+{
+  "name": "cyclescore-vercel-playwright",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:cyclescore": "node scripts/fetch-with-chromium.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "playwright": "^1.48.2"
+  }
+}
