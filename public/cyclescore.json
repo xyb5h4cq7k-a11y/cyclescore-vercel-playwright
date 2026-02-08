@@ -1,16 +1,16 @@
 {
-  "timestamp_utc": "2026-02-07T18:38:51.593Z",
+  "timestamp_utc": "2026-02-08T02:44:10.458Z",
   "indicators": {
-    "price_usd": 70520.32,
-    "mayer_multiple": 0.702709121246119,
+    "price_usd": 69282.65,
+    "mayer_multiple": 0.6911210413399165,
     "pi_cycle_cross": false,
-    "two_year_ma_multiple": 1.229046027006431,
-    "ma_200w_yoy": 1.1755987486125383,
+    "two_year_ma_multiple": 1.2074593269839091,
+    "ma_200w_yoy": 1.1726629507689423,
     "heatmap_bucket": "🔥 Very Hot",
-    "puell_multiple": 0.6456627012829776,
-    "nvt": 61.248388844448,
-    "nvts": 116.886127251822,
-    "fear_greed": 6,
+    "puell_multiple": 0.71252720819419,
+    "nvt": 73.34389132687745,
+    "nvts": 121.70088845471514,
+    "fear_greed": 7,
     "mvrv_z": null,
     "rhodl": null,
     "hash_ribbons_state": null
@@ -18,12 +18,12 @@
   "cyclescore": {
     "scores": {
       "technical": 8,
-      "network_value": 0,
+      "network_value": 8,
       "holders": 0,
       "miners": 0,
       "activity": 0,
       "sentiment": 0,
-      "total": 8
+      "total": 16
     },
     "triggers": [],
     "regime": "🟢 Acumulação / início de bull"
