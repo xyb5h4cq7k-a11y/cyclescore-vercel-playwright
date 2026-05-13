@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-05-13T03:37:52.510Z",
+  "timestamp_utc": "2026-05-13T08:47:23.282Z",
   "indicators": {
     "price_usd": 80491.45,
     "mayer_multiple": 0.8436977571142036,
@@ -10,7 +10,7 @@
     "puell_multiple": 1.092373959256167,
     "nvt": 286.0265797498149,
     "nvts": 195.14558147336626,
-    "fear_greed": null,
+    "fear_greed": 42,
     "mvrv_z": null,
     "rhodl": null,
     "hash_ribbons_state": null
