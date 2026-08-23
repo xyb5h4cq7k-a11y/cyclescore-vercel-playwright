@@ -1,11 +1,11 @@
 {
-  "timestamp_utc": "2026-08-23T01:25:06.212Z",
+  "timestamp_utc": "2026-08-23T06:42:14.746Z",
   "indicators": {
-    "price_usd": 73024.53,
-    "mayer_multiple": 0.8456257567407698,
+    "price_usd": 77077.12,
+    "mayer_multiple": 0.8946757417260912,
     "pi_cycle_cross": false,
-    "two_year_ma_multiple": 1.1727062038824339,
-    "ma_200w_yoy": 0.9458119982811138,
+    "two_year_ma_multiple": 1.2362759720560141,
+    "ma_200w_yoy": 0.9444599488202975,
     "heatmap_bucket": "🔥 Hot",
     "puell_multiple": 0.7702202738563372,
     "nvt": 103.88494527752829,
