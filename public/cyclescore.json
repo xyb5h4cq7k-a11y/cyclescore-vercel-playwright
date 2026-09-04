@@ -1,16 +1,16 @@
 {
-  "timestamp_utc": "2026-09-03T20:39:31.773Z",
+  "timestamp_utc": "2026-09-04T03:28:12.558Z",
   "indicators": {
-    "price_usd": 77304.32,
-    "mayer_multiple": 0.9076951594607225,
+    "price_usd": 81272.88,
+    "mayer_multiple": 0.9565504497740157,
     "pi_cycle_cross": false,
-    "two_year_ma_multiple": 1.230492524613195,
-    "ma_200w_yoy": 0.939571376320878,
+    "two_year_ma_multiple": 1.293617213924241,
+    "ma_200w_yoy": 0.9369630824726966,
     "heatmap_bucket": "🔥 Hot",
-    "puell_multiple": 0.8780574304082086,
-    "nvt": 178.50686801302174,
-    "nvts": 256.159809064297,
-    "fear_greed": 65,
+    "puell_multiple": 1.1025015383455727,
+    "nvt": 257.02539491263803,
+    "nvts": 279.6445527464738,
+    "fear_greed": 74,
     "mvrv_z": null,
     "rhodl": null,
     "hash_ribbons_state": null
@@ -22,8 +22,8 @@
       "holders": 0,
       "miners": 0,
       "activity": 0,
-      "sentiment": 0,
-      "total": 20
+      "sentiment": 5,
+      "total": 25
     },
     "triggers": [
       "NVTS alto"
