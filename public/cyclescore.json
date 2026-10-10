@@ -1,29 +1,29 @@
 {
-  "timestamp_utc": "2026-10-09T22:23:40.881Z",
+  "timestamp_utc": "2026-10-10T04:51:55.589Z",
   "indicators": {
-    "price_usd": 81672.9,
-    "mayer_multiple": 0.9937959462432944,
+    "price_usd": 82561.72,
+    "mayer_multiple": 1.0063188664291571,
     "pi_cycle_cross": false,
-    "two_year_ma_multiple": 1.2692092552171463,
-    "ma_200w_yoy": 0.9186999333093695,
+    "two_year_ma_multiple": 1.282970051190262,
+    "ma_200w_yoy": 0.9162276357140744,
     "heatmap_bucket": "🔥 Hot",
-    "puell_multiple": 1.031418699856544,
-    "nvt": 143.26142277999438,
-    "nvts": 257.0676084192174,
-    "fear_greed": 59,
+    "puell_multiple": 0.9400257892334736,
+    "nvt": 99.8213756989799,
+    "nvts": 256.5937433112395,
+    "fear_greed": 64,
     "mvrv_z": null,
     "rhodl": null,
     "hash_ribbons_state": null
   },
   "cyclescore": {
     "scores": {
-      "technical": 5,
+      "technical": 7,
       "network_value": 15,
       "holders": 0,
       "miners": 0,
       "activity": 0,
       "sentiment": 0,
-      "total": 20
+      "total": 22
     },
     "triggers": [
       "NVTS alto"
